@@ -1,4 +1,4 @@
-## Getting Started
+## Atividade 4
 
 Criar um programa em Java que permita cadastrar alunos, registrar suas notas, calcular médias e exibir um relatório final. Requisitos:
 
